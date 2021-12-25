@@ -1,6 +1,6 @@
 # Qt Calculator
 
-QT Calculator is a project application that allows users to calculate an expression with multiple basic operations and parentheses and power at once. The user can also cycle through the history of the previous ten expressions that were executed.
+Qt Calculator is a project application that allows users to calculate an expression with multiple basic operations and parentheses and powers at once. The user can also cycle through the history of the previous ten expressions that were executed.
 
 Submitted by: James Vera-Soto
 
